@@ -1,3 +1,11 @@
 echo "added"
 echo "hello word"
 echo "welcome to GIT"
+#git clone
+#cd repo5
+#git status
+#git diff
+#git add .
+#git commit -m "added one line"
+#git push
+#git pull
